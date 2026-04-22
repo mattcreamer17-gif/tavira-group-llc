@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" role="img" aria-label="Tavira Group">
+  <title>Tavira Group (placeholder wordmark)</title>
+  <defs>
+    <style>
+      .wm { font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; font-weight: 700; letter-spacing: -0.01em; }
+      .sub { font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase; }
+    </style>
+  </defs>
+  <g>
+    <rect x="10" y="28" width="56" height="56" rx="10" fill="#0E3A5F"/>
+    <path d="M24 58 L38 72 L58 44" stroke="#F5B700" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="84" y="68" class="wm" font-size="40" fill="#0E3A5F">Tavira Group</text>
+    <text x="86" y="92" class="sub" font-size="11" fill="#6B7280">Strategy &#183; Automation &#183; Savings</text>
+  </g>
+</svg>
